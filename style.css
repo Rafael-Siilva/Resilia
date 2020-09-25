@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+#imagem {
+    display: flex;
+    margin: auto;
+}
+
+body {
+    background: #FFFAFA;
+}
+
+.texto {
+    font-weight: bold;
+}
+
+#css {
+    display: flex;
+    margin: auto;
+    width: 490px;
+}
+
+p {
+    font-weight: bold;
+}
